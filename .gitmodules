@@ -1,0 +1,3 @@
+[submodule "zer0pts/zer0pts-ctf-2022-public"]
+	path = zer0pts/zer0pts-ctf-2022-public
+	url = https://gitlab.com/zer0pts/zer0pts-ctf-2022-public.git
